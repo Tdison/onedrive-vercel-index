@@ -53,7 +53,7 @@ module.exports = {
       link: 'https://github.com/Tdison',
     },
     {
-      name: 'Blog',
+      name: 'tags',
       link: 'https://tdison.ml',
     },
   ],
