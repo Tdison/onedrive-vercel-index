@@ -49,12 +49,12 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'GitHub',
-      link: 'https://github.com/Tdison',
-    },
-    {
       name: 'Blog',
       link: 'https://tdison.ml',
+    },
+    {
+      name: 'GitHub',
+      link: 'https://github.com/Tdison',
     },
   ],
 
