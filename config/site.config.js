@@ -11,7 +11,7 @@ module.exports = {
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
-  icon: '/icons/favicon.jpg',
+  icon: '/icons/favicon.png',
 
   // The name of your website. Present alongside your icon.
   title: "Tdison的网盘",
@@ -53,7 +53,7 @@ module.exports = {
       link: 'https://github.com/Tdison',
     },
     {
-      name: 'tags',
+      name: 'Blog',
       link: 'https://tdison.ml',
     },
   ],
